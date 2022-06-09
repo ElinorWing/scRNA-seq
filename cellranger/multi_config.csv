@@ -1,9 +1,0 @@
-[gene-expression],,,,
-reference,/home/s2126362/scratch/refdata-gex-GRCh38-2020-A,,,
-expect-cells,1000,,,
-[vdj],,,,
-reference,/home/s2126362/scratch/refdata-cellranger-vdj-GRCh38-alts-ensembl-5.0.0,,,
-[libraries],,,,
-fastq_id,fastqs,lanes,feature_types,subsample_rate
-sc5p_v2_hs_B_1k_5gex,/home/s2126362/scratch/data/EW-CS_170522/outs/fastq_path/AAAMGTNHV,1|2,gene expression,
-sc5p_v2_hs_B_1k_b,/home/s2126362/scratch/data/EW-CS_170522/outs/fastq_path/AAAMGTNHV,1|2,vdj,
