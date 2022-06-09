@@ -1,0 +1,9 @@
+[gene-expression],,,,
+reference,/home/s2126362/scratch/refdata-cellranger-GRCh38-3.0.0,,,
+expect-cells,1000,,,
+[vdj],,,,
+reference,/home/s2126362/scratch/refdata-cellranger-vdj-GRCh38-alts-ensembl-5.0.0,,,
+[libraries],,,,
+fastq_id,fastqs,lanes,feature_types,subsample_rate
+EW_2g,/home/s2126362/scratch/E161639_EW_300522/outs/fastq_path/AAAYCTCM5/,1|2,gene expression,
+EW-2v,/home/s2126362/scratch/EW-CS_170522/outs/fastq_path/AAAMGTNHV,1|2,vdj,
